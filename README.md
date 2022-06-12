@@ -30,6 +30,6 @@ Request body example:
 
 Request body example: 
 {
-   "appointment_id" : 1, (integet)
+   "appointment_id" : 1, (integer)
    "status" : "ACCEPTED" (either "ACCEPTED" or "REJECTED")
 }
